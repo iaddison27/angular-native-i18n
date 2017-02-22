@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="74a288d2244552035ee2dab4dd11d7a73f2f2d90" datatype="html">
+        <source>Hello World</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="6c25698dfcb83ff74388835c7225bb7518c5dedb" datatype="html">
+        <source>
+		Translation by comment
+	</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="987ac8a21288d5d6b6bbbf020d321caa6963e20e" datatype="html">
+        <source>Translation by container</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="19f06fc8ceb2ca71e28054d9c83cd65835473ba7" datatype="html">
+        <source>Angular official website</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
